@@ -38,7 +38,10 @@ export default function App() {
                 General familiarity with layout, data modeling, interaction,
                 network I/O
               </li>
-              <li>Legible code</li>
+              <li>
+                Legible code - try keeping your code clean and add
+                comments/documentation whenever you feel necessary
+              </li>
             </ul>
             <p>When in doubt, do less, better. 😀</p>
             <hr />
@@ -56,13 +59,15 @@ export default function App() {
               <div className="App-instructions">
                 <ol>
                   <li>
-                    Get familiar with the file <code>./src/index.js</code>.
+                    Get familiar with the code under <code>/src/tree/</code>.
+                    For the remainder of the assignment, only make modifications
+                    inside this directory.
                   </li>
                   <li>
                     Replace the inline <code>&nbsp</code> "styling" with an
-                    improved layout by editing the JSX, HTML, and CSS in the{" "}
-                    <code>./src/index.js</code>
-                    and <code>./index.css</code> files.
+                    improved layout by editing the code in the{" "}
+                    <code>index.tsx</code>
+                    and <code>index.css</code> files.
                   </li>
                   <li>
                     When the results look the same as the original, please
@@ -94,7 +99,7 @@ export default function App() {
               <div className="App-instructions">
                 <ol>
                   <li>
-                    Open the (empty) file <code>./src/data.json</code>.
+                    Open the (empty) file <code>data.json</code>.
                   </li>
                   <li>
                     Add a JSON object to that file that represents our animal
@@ -102,7 +107,7 @@ export default function App() {
                     relationships, without the numbering.
                   </li>
                   <li>
-                    Update <code>./index.js</code> to use your JSON object to
+                    Update <code>index.tsx</code> to use your JSON object to
                     draw the animal tree instead of the your (styled) inline
                     text.
                   </li>
