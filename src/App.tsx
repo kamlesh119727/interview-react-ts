@@ -22,12 +22,14 @@ export default function App() {
               a realistic-ish problem.
             </p>
             <p>
-              In an hour, we expect everyone will get some of the way through
-              this problem, but no one will get all the way through. If invited
-              to a technical interview, you'll pair with us wherever you left
-              off, because we'd much rather see how you work on a problem you're
-              familiar with and have had time to think about than on some clever
-              whiteboard puzzle we spring on you.
+              There is no time limit. Spend the time that you think correctly
+              showcases your skills. For reference: with a couple of hours work,
+              we expect everyone will get through most of this problem, but not
+              all the way through. If invited to a technical interview, you'll
+              pair with us wherever you left off, because we'd much rather see
+              how you work on a problem you're familiar with and have had time
+              to think about than on some clever whiteboard puzzle we spring on
+              you.
             </p>
             <p>At this stage, we care most about:</p>
             <ul>
@@ -66,8 +68,8 @@ export default function App() {
                   <li>
                     Replace the inline <code>&nbsp</code> "styling" with an
                     improved layout by editing the code in the{" "}
-                    <code>index.tsx</code>
-                    and <code>index.css</code> files.
+                    <code>tree/index.tsx</code> and <code>tree/index.css</code>{" "}
+                    files.
                   </li>
                   <li>
                     When the results look the same as the original, please
