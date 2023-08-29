@@ -12,6 +12,7 @@ const Tree = () => {
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;elephant{" "}
       <br />
       &nbsp;&nbsp;&nbsp;&nbsp;frog <br />
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dolphin <br />
     </div>
   );
 };
