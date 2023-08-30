@@ -143,9 +143,10 @@ export default function App() {
                   <li>
                     Add a text input field below the last element in each level,
                     at the correct indentation level. There should be one text
-                    input at level 0 after frog, one at level 1 directly above
-                    that, one below elephant at level 3, and another beneath
-                    that at level 2.
+                    input at level 0 after dolphin, one at level 1 directly
+                    above that, another one at level 2 directly above that, one
+                    below elephant at level 3, and another beneath that at level
+                    2.
                   </li>
                   <li>
                     When someone types a new word in the text box and hits
