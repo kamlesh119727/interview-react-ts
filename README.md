@@ -2,7 +2,7 @@
 
 1. Click "Use this template" button to create a copy of this repository.
     1. Ideally, create the copy publicly.
-    1. Optionally, if you're concerned about privacy, create the copy as a private copy. Then give `jmcbride@mersive.com` collaborator access.
+    1. Optionally, if you're concerned about privacy, create the copy as a private copy. Then give `estephens@mersive.com` collaborator access.
 1. Run `npm install`
 1. Run `npm run dev`
 1. Open the app on your browser.
